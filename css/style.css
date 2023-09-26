@@ -76,6 +76,29 @@ body {
   background-color: silver;
 }
 
+.venus {
+  position: absolute;
+  border-style: solid;
+  border-color: white transparent transparent transparent;
+  border-width: 0.1em 0.1em 0 0;
+  border-radius: 50%;
+  top: 4em;
+  left: 4em;
+  width: 30em;
+  height: 30em;
+  animation: orbit 20.5s linear infinite; /* Adjust this value for Venus' orbit time around the sun */
+}
+
+.venus::before {
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  top: 3.6em;
+  right: 3.6em;
+  width: 2.4em;
+  height: 2.4em;
+  background-color: #FFC0CB; 
+}
 
 
 @keyframes orbit {
