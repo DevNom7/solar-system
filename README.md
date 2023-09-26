@@ -25,7 +25,8 @@ complementing fundamental JavaScript and HTML. Enjoy!
 
 ## Getting Started
 
-1) Open the solar-system folder
-2) Open the solar-system.html file
-3) Click buttons on the interactive webpage to see more 💯
-4) My LinkedIn is added for you to add me 😎
+1) Download the zip file under the green code button 
+2) Unzip the file and open the solar-system folder
+3) Open the solar-system.html file
+4) Click buttons on the interactive webpage to see more 💯
+5) My LinkedIn is added for you to add me 😎
