@@ -4,22 +4,22 @@ A replica solar system.
 
 ## Project Description
 
-This project was created to practice advanced CSS techniques , 
-complemented fundamental JavaScript and HTML. Enoy!
+This project was created to practice advanced CSS techniques, 
+complementing fundamental JavaScript and HTML. Enjoy!
 
 ## Features
 
-CSS
+**CSS
 - @keyframes
   -Using orbit, glow
 - Pseudo-elements
 - Transform element
 - Animation element
 
-  HTML
-    - Onclick Element : specifies a JavaScript function to be executed when the button is clicked.
+  **HTML
+    - Onclick Element: specifies a JavaScript function to be executed when the button is clicked.
   
-    Javascript
+    **Javascript
       - Escape characters \
       - Basic JS function
 
@@ -28,3 +28,4 @@ CSS
 1) Open the solar-system folder
 2) Open the solar-system.html file
 3) Click buttons on the interactive webpage to see more 💯
+4) My LinkedIn is added for you to add me 😎
