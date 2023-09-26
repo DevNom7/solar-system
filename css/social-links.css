@@ -1,0 +1,30 @@
+.link1{
+  position: absolute;
+  right: 5%;
+  bottom: 5%;
+  background-color: silver;
+  /* color: black; */
+  border-color: blue;
+  border-radius: 3em;
+  font-size: medium;
+
+}
+
+.link1 a{
+  text-decoration: none;
+  color: red;
+}
+.link2{
+  position: absolute;
+  right: 2.5%;
+  bottom: 10%;
+  background-color: silver;
+  /* color: black; */
+  border-color: blue;
+  border-radius: 3em;
+  font-size: medium;
+}
+.link2 a{
+  text-decoration: none;
+  color: red;
+}
